@@ -91,6 +91,9 @@ footer {
     background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.center-items {
     text-align: center;
     width: 50%;
     margin: 0% 25%;
